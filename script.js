@@ -24,7 +24,7 @@ function mudaConteudo(){
     perguntas[5] = 'Para selecionarmos um parágrafo via CSS utilizamos...'
     perguntas[6] = 'Quais desses codigos representam pseudo-classes'
     perguntas[7] = 'Uma Media Query nos permite...'
-    perguntas[8] = 'Para selecionar um elemento apartir do id via JavaScript usamos...'
+    perguntas[8] = 'Para selecionar um elemento a partir do id via JavaScript usamos...'
     perguntas[9] = 'Para acessar o texto dentro de uma tag usamos...'	    
     perguntas[10] = ''	
 
